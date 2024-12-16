@@ -2,3 +2,5 @@ langchain_community
 transformers
 sentence-transformers
 langchain_groq
+faiss-cpu  
+faiss-gpu
